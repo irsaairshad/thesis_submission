@@ -39,7 +39,7 @@ npm install
 Edit `.env` file:
 ```
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/thesis_submission
+mongodb+srv://IrsaIrshad:12345@lab3cluster.aubkzpf.mongodb.net/thesis_submission
 JWT_SECRET=change_this_to_any_random_long_string
 ```
 
